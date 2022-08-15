@@ -1,2 +1,3 @@
-# heart-atacck-prediction
-I developed this model using machine learning. 
+# Self project
+Using various machine learning and deep learning model to get the desire result.
+
